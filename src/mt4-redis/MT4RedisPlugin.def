@@ -1,0 +1,10 @@
+LIBRARY MT4RedisPlugin
+
+EXPORTS
+	RedisGet
+	RedisGetWithTimeout
+	RedisSet
+	RedisSetWithTimeout
+	RedisCommand
+	RedisCommandWithTimeout
+	RedisTest
